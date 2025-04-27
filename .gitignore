@@ -50,3 +50,34 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# STM32CubeIDE generated files
+*.launch
+*.log
+*.swp
+*.bak
+*.tmp
+*.exe
+*.bin
+*.elf
+*.hex
+*.map
+*.lst
+*.o
+*.d
+*.a
+*.lib
+*.obj
+*.srec
+*.dep
+*.out
+*.cproject
+*.mxproject
+*.project
+
+# STM32CubeIDE build folders
+G431_PID_Demo/Debug/
+G431_PID_Demo/Release/
+G431_PID_Demo/build/
+G431_PID_Demo/.settings
+
